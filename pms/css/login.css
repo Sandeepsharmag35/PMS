@@ -1,0 +1,49 @@
+h1{
+	color: black;
+}
+
+body{
+        background-color: #2ad2f5;
+        font-family: Calibri;
+        color: #ffffff;
+        }
+.logindiv{
+	margin-top: 100px;
+}
+.login-form{
+	color: black;
+	background-color: #d3dae6;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	color: white;
+	border: 5px solid black;
+	border-radius: 10px;
+}
+.login-form button: hover{
+  box-shadow: black;
+}
+.login-form input{
+	width: 200px;
+	padding: 7px;
+	border: 2px solid black;
+	border-radius: 9px;
+}
+.login-form input:focus{
+	outline: none;
+}
+
+.login-form button{
+	padding: 12px;
+	background-color: green;
+	color: white;
+	border-radius: 6px;
+	border: none;
+	cursor: pointer;
+
+}
+.form-input{
+	margin-top: 30px;
+	color: black;
+}

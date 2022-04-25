@@ -1,0 +1,35 @@
+a{
+	text-decoration: none;
+	color: white;
+}
+ul{
+	list-style-type: none; 
+}
+h3{
+	font-family: calibri;
+	color: white;
+}
+
+.navbar li{
+	font-family: Calibri;
+	background-color: tomato;
+	color: white;
+	display: inline-block;
+	padding: 10px;
+}
+.navbar li:hover{
+	background-color: rgb(49, 211, 247);
+}
+.navbar a{
+	display: inline;
+	padding: 10px;
+}
+.ournav{
+	display: flex;
+	background-color: tomato;
+}
+
+.navbar{
+	margin-left: auto;
+
+}
